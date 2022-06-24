@@ -398,6 +398,15 @@
   },
   "groups": [
     {
+      "id": "86ba52dd-0c00-4bf4-964d-db9aca67bfe4",
+      "name": "fhirAdmin",
+      "path": "/fhirAdmin",
+      "attributes": {},
+      "realmRoles": [],
+      "clientRoles": {},
+      "subGroups": []
+    },
+    {
       "id": "3d6fc48b-cbe8-4941-ad81-26f919d1347b",
       "name": "fhirUser",
       "path": "/fhirUser",
